@@ -1,7 +1,6 @@
-# GuessNumber
 # Guess No. between 1 to 100
 
----------------------NUMBER+++++++++++++++++
+ENJOYYYY GAME!!!!
 ### Trick
 
 - guess no +
