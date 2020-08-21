@@ -1,6 +1,6 @@
 # GuessNumber
 ---------------------NUMBER+++++++++++++++++
-###Trick
+### Trick
 
 - guess no +
 
