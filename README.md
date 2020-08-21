@@ -1,4 +1,6 @@
 # GuessNumber
+# Guess No. between 1 to 100
+
 ---------------------NUMBER+++++++++++++++++
 ### Trick
 
