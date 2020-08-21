@@ -8,9 +8,7 @@ warm = abs(a+10) #abs() function to find the positive difference between two num
 
 cold = abs(a-10)
 
-print(warm)
-print(a)
-print(cold)
+
 
 step = []
 
